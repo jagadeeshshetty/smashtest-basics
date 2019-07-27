@@ -1,0 +1,25 @@
+{
+  "name": "smashtest-basics",
+  "version": "1.0.0",
+  "description": "Help to understand the basics of Smashtest framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jagadeeshshetty@github.com/jagadeeshshetty/smashtest-basics.git"
+  },
+  "keywords": [
+    "smashtest",
+    "test",
+    "selenium",
+    "webdriver"
+  ],
+  "author": "Jagadeesh C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagadeeshshetty/smashtest-basics/issues"
+  },
+  "homepage": "https://github.com/jagadeeshshetty/smashtest-basics#readme"
+}
